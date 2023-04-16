@@ -29,7 +29,8 @@ $ npm start
 
 This will open the Expo Developer Tools in your browser. You can then use an iOS or Android simulator, or scan the QR code on your physical device to open the app.
 
-![NiftyPlace Application](https://user-images.githubusercontent.com/62913154/232314096-f9cf1809-8e30-4110-a959-07ebbeac05b1.png)
+![photo_2023-04-16_15-10-43](https://user-images.githubusercontent.com/62913154/232314423-6ab9e68a-a0b5-4a07-bdd5-5a31c1b440b0.jpg)
+
 
 ### Running the App from Expo
 
