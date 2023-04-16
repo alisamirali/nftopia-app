@@ -35,8 +35,8 @@ This will open the Expo Developer Tools in your browser. You can then use an iOS
 
 To run the app from Expo, follow these steps:
 
-: Install the Expo client app on your iOS or Android device.
-: Open the Expo client app and sign in or create an account.
-: Click on this link to open the app: [https://expo.dev/@dev_alisamir/nftopia-app].
-: The app will load and you can use it on your device.
+1. Install the Expo client app on your iOS or Android device.
+2. Open the Expo client app and sign in or create an account.
+3. Click on this link to open the app: [https://expo.dev/@dev_alisamir/nftopia-app].
+4. The app will load and you can use it on your device.
 
