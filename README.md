@@ -28,3 +28,15 @@ $ npm start
 ```
 
 This will open the Expo Developer Tools in your browser. You can then use an iOS or Android simulator, or scan the QR code on your physical device to open the app.
+
+![NiftyPlace Application](https://user-images.githubusercontent.com/62913154/232314096-f9cf1809-8e30-4110-a959-07ebbeac05b1.png)
+
+### Running the App from Expo
+
+To run the app from Expo, follow these steps:
+
+: Install the Expo client app on your iOS or Android device.
+: Open the Expo client app and sign in or create an account.
+: Click on this link to open the app: [https://expo.dev/@dev_alisamir/nftopia-app].
+: The app will load and you can use it on your device.
+
