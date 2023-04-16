@@ -9,8 +9,8 @@ This is a React Native app for a Non-Fungible Token (NFT) marketplace where user
 To get started with the app, clone the repo:
 
 ```
-$ git clone https://github.com/your-username/react-native-nft-marketplace-app.git
-$ cd react-native-nft-marketplace-app
+$ git clone https://github.com/alisamirali/nftopia-app.git
+$ cd nftopia-app
 ```
 
 Then install the dependencies:
